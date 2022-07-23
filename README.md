@@ -1,5 +1,18 @@
-### Hi there, my name is Kevin Cayo, I'm student at UTA.
-# Perfil
+#### Kevin Cayo Tipan 
+#### kcayo6155@uta.edu.ec
+#### xxxxxxxxx
+## Educacion
+- Tercer Nivel
+
+Estudio Ingeniería en Software en la Universidad Técnica de Ambato,
+estoy cursando el 4to semestre de carrera.
+
+- Bachillerato
+
+Finalice mi bachillerato en el Colegio Santiago Apóstol de 
+Puerto Quito.
+
+## Habilidades
 #### Lenguajes de programación que domino:
     1. Java
     2. Php
@@ -7,7 +20,6 @@
 #### Herramientas agiles que domino:
     1. Devops
     2. Jira
-    3. Clevercloud
 #### Herramientas de versionamiento que domino:
     1. Github y Git
     2. Mercurial
