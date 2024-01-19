@@ -1,29 +1,40 @@
-# Hi there, I'm Kevin 😃 
+<h2 align="center">
+👋 Hi there, I'm <a href="https://www.kevincayo.dev/" target="_blank" rel="noreferrer">Kevin Cayo</a> 
+</h2>
+<p align="center">
+  <a href="https://www.yushi.dev/" target="_blank" rel="noreferrer"><img src="img/Banner_KevinCayo.png" alt="my banner"></a>
+</p>
 
-## Mis Redes Sociales:
+## 🚀 About Me
 
-* [Facebook](https://www.facebook.com/kevin.cayo.52/)
-* [LinkedIn](https://www.linkedin.com/in/kevin-cayo-619a381a3/)
+<p>
+Hello, I'm Kevin Cayo, a junior programmer with a passion for backend development and database management. My experience includes working with both relational and non-relational databases, and I'm particularly skilled in Google Cloud Platform (GCP). I thrive on creating efficient and scalable solutions, and I'm eager to contribute to challenging projects while continually expanding my skills in the exciting world of software development.
 
-## Sobre Mí
+Let's connect and explore the endless possibilities in the realm of coding! 🖥️✨
 
-Soy estudiante de Ingeniería en Software en la Universidad Técnica de Ambato, actualmente cursando el 4to semestre. Me apasiona la programación tanto del lado del servidor como del cliente. Actualmente, estoy enfocado en aprender servicios con PHP.
+</p>
 
-## Mis Proyectos:
-* [Aplicación Móvil de Adquisición de Servicios](https://github.com/KevinJCT/app)
+## ☎️ Connect with me
 
-    Una aplicación en desarrollo con tecnología de Android Studio. Permite a un trabajador aplicar a servicios solicitados por clientes.
+<div style="display: flex; gap: 10px;">
+    <a href="https://www.linkedin.com/in/kevincayo10">
+        <img align="left" src="img/linkedin2.svg" alt="Kevin Cayo | LinkedIn" width="30px"/>
+    </a>
+    <a href="https://www.facebook.com/kevin.cayo.52/">
+        <img align="left" src="img/facebook.svg" alt="Kevin Cayo | Facebook" width="30px"/>
+    </a>
+</div>
 
-* [Juego del Mecanógrafo](https://github.com/KevinJCT/ProyectoED)
+## 💡Skills
 
-    Un juego clásico que consiste en escribir palabras u oraciones letra por letra utilizando el teclado.
+<div>
+  <p align="">
+      <img src="https://skillicons.dev/icons?i=angular,nodejs,react,gcp,spring,mysql,firebase,postman,git&perline=10" />
+    
+  </p> 
+ 
+</div>
 
-## Educación
-* Tercer Nivel - Ingeniería en Software, Universidad Técnica de Ambato, 4to Semestre.
-* Bachillerato - Colegio Santiago Apóstol de Puerto Quito.
+## 📈 Github Analytics
 
-## Habilidades
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KevinCayo10&show_icons=true&theme=dark)
