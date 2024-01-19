@@ -24,6 +24,7 @@ Let's connect and explore the endless possibilities in the realm of coding! 🖥
         <img align="left" src="img/facebook.svg" alt="Kevin Cayo | Facebook" width="30px"/>
     </a>
 </div>
+<br>
 
 ## 💡Skills
 
