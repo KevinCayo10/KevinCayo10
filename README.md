@@ -30,7 +30,7 @@ Let's connect and explore the endless possibilities in the realm of coding! 🖥
 
 <div>
   <p align="">
-      <img src="https://skillicons.dev/icons?i=angular,nodejs,react,gcp,spring,mysql,firebase,postman,git&perline=10" />
+      <img src="https://skillicons.dev/icons?i=python,java,javascript,angular,nodejs,react,gcp,mysql,firebase,postman,git&perline=10" />
     
   </p> 
  
