@@ -5,20 +5,24 @@
   <a href="https://www.yushi.dev/" target="_blank" rel="noreferrer"><img src="img/Banner_KevinCayo.png" alt="my banner"></a>
 </p>
 
-## 🚀 About Me
+## 🚀 Acerca de mí
 
 <p>
-Hello, I'm Kevin Cayo, a junior programmer with a passion for backend development and database management. My experience includes working with both relational and non-relational databases, and I'm particularly skilled in Google Cloud Platform (GCP). I thrive on creating efficient and scalable solutions, and I'm eager to contribute to challenging projects while continually expanding my skills in the exciting world of software development.
+Hola, soy Kevin Cayo, un Ingeniero de Software especializado en desarrollo Fullstack. Me caracterizo por mi enfoque colaborativo y comunicativo, así como por mi profunda pasión por esta área.
+Disfruto enfrentando nuevos desafíos y aplicando soluciones innovadoras en el desarrollo tanto frontend como backend. Mi habilidad se centra en construir y gestionar la lógica y funcionalidad de sitios web y aplicaciones, creando sistemas robustos y eficientes que impulsan el éxito de los productos que desarrollo. 
 
-Let's connect and explore the endless possibilities in the realm of coding! 🖥️✨
+¡Contactame y exploremos las infinitas posibilidades en el ámbito de la codificación! 🖥️✨
 
 </p>
 
-## ☎️ Connect with me
+## ☎️ Sígueme
 
 <div style="display: flex; gap: 10px;">
     <a href="https://www.linkedin.com/in/kevincayo10">
         <img align="left" src="img/linkedin2.svg" alt="Kevin Cayo | LinkedIn" width="30px"/>
+    </a>
+    <a href="mailto:kejoelct1002@gmail.com/">
+        <img align="left" src="img/facebook.svg" alt="Kevin Cayo | Facebook" width="30px"/>
     </a>
     <a href="https://www.facebook.com/kevin.cayo.52/">
         <img align="left" src="img/facebook.svg" alt="Kevin Cayo | Facebook" width="30px"/>
@@ -26,7 +30,7 @@ Let's connect and explore the endless possibilities in the realm of coding! 🖥
 </div>
 <br>
 
-## 💡Skills
+## 💡habilidades
 
 <div>
   <p align="">
