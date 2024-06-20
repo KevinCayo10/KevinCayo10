@@ -1,5 +1,5 @@
 <h2 align="center">
-👋 Hi there, I'm <a href="https://portfolio-kevdev.vercel.app/" target="_blank" rel="noreferrer">Kevin Cayo</a> 
+👋 Hola, Soy <a href="https://portfolio-kevdev.vercel.app/" target="_blank" rel="noreferrer">Kevin Cayo</a> 
 </h2>
 <p align="center">
   <a href="https://www.yushi.dev/" target="_blank" rel="noreferrer"><img src="img/portada.png" alt="my banner"></a>
@@ -33,7 +33,7 @@ Disfruto enfrentando nuevos desafíos y aplicando soluciones innovadoras en el d
 </div>
 <br>
 
-## 💡habilidades
+## 💡Habilidades
 
 <div>
   <p align="">
@@ -43,6 +43,6 @@ Disfruto enfrentando nuevos desafíos y aplicando soluciones innovadoras en el d
  
 </div>
 
-## 📈 Github Analytics
+## 📈 Github
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KevinCayo10&show_icons=true&theme=dark)
