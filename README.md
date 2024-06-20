@@ -2,7 +2,7 @@
 👋 Hola, Soy <a href="https://portfolio-kevdev.vercel.app/" target="_blank" rel="noreferrer">Kevin Cayo</a> 
 </h2>
 <p align="center">
-  <a href="https://www.yushi.dev/" target="_blank" rel="noreferrer"><img src="img/portada.png" alt="my banner"></a>
+  <a href="#" target="_blank" rel="noreferrer"><img src="img/portada.png" alt="my banner"></a>
 </p>
 
 ## 🚀 Acerca de mí
