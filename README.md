@@ -3,8 +3,8 @@
 </h2>
 <table>
   <tr>
-    <td style="vertical-align: top; width: 60%;">
-      
+    <td>
+
 ### 🙋‍♂️ Sobre mí
 
 - 👨‍💻 Soy Kevin Cayo, Ingeniero de Software Fullstack.  
@@ -17,10 +17,11 @@
 
     </td>
     <td>
-      <img src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" alt="Coding GIF" width="250px"/>
+      <img src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" alt="Coding GIF" width="250"/>
     </td>
   </tr>
 </table>
+
 
 
 ## ☎️ Sígueme
