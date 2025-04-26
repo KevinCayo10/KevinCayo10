@@ -1,27 +1,24 @@
 <h2 align="center">
 👋 Hola, Soy <a href="https://portfolio-kevdev.vercel.app/" target="_blank" rel="noreferrer">Kevin Cayo</a> 
 </h2>
-<table>
+<table style="width: 100%; max-width: 1000px; margin: auto; border: none; border-spacing: 0;">
   <tr>
-    <td>
-
-### 🙋‍♂️ Sobre mí
-
-- 👨‍💻 Soy Kevin Cayo, Ingeniero de Software Fullstack.  
-- 🤝 Me destaco por mi enfoque colaborativo y comunicativo.  
-- 💡 Aplico soluciones innovadoras en frontend y backend.  
-- ⚙️ Desarrollo sistemas web robustos y eficientes.  
-- 🚀 Me apasiona la tecnología y los nuevos desafíos.  
-
-📩 ¡Conectemos y creemos algo increíble juntos!
-
+    <td style="vertical-align: top; padding-right: 20px;">
+      <h3>🙋‍♂️ Sobre mí</h3>
+      <ul style="list-style: none; padding: 0;">
+        <li>👨‍💻 <strong>Soy Kevin Cayo</strong>, Ingeniero de Software Fullstack.</li>
+        <li>🤝 Me destaco por mi enfoque colaborativo y comunicativo.</li>
+        <li>💡 Aplico soluciones innovadoras en frontend y backend.</li>
+        <li>⚙️ Desarrollo sistemas web robustos y eficientes.</li>
+        <li>🚀 Me apasiona la tecnología y los nuevos desafíos.</li>
+      </ul>
+      <p>📩 <em>¡Conectemos y creemos algo increíble juntos!</em></p>
     </td>
-    <td>
-      <img src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" alt="Coding GIF" width="250"/>
+    <td style="text-align: center; vertical-align: top;">
+      <img src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" alt="Coding GIF" width="250px" />
     </td>
   </tr>
 </table>
-
 
 
 ## ☎️ Sígueme
