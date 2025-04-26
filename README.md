@@ -1,11 +1,11 @@
 <h2 align="center">
 👋 Hola, Soy <a href="https://portfolio-kevdev.vercel.app/" target="_blank" rel="noreferrer">Kevin Cayo</a> 
 </h2>
-<p align="center">
-  <a href="#" target="_blank" rel="noreferrer"><img src="img/portada.png" alt="my banner"></a>
-</p>
-
-## 🙋‍♂️ Sobre mí
+<table>
+  <tr>
+    <td style="vertical-align: top; width: 60%;">
+      
+### 🙋‍♂️ Sobre mí
 
 - 👨‍💻 Soy Kevin Cayo, Ingeniero de Software Fullstack.  
 - 🤝 Me destaco por mi enfoque colaborativo y comunicativo.  
@@ -14,6 +14,14 @@
 - 🚀 Me apasiona la tecnología y los nuevos desafíos.  
 
 📩 ¡Conectemos y creemos algo increíble juntos!
+
+    </td>
+    <td>
+      <img src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" alt="Coding GIF" width="250px"/>
+    </td>
+  </tr>
+</table>
+
 
 ## ☎️ Sígueme
 
