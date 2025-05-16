@@ -38,7 +38,7 @@
 
 <div>
   <p align="">
-      <img src="https://skillicons.dev/icons?i=python,java,javascript,angular,nodejs,react,gcp,mysql,firebase,postman,git&perline=10" />
+      <img src="https://skillicons.dev/icons?i=python,java,javascript,angular,nodejs,react,spring,gcp,mysql,firebase,postman,git&perline=15" />
     
   </p> 
  
