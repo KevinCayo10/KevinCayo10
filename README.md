@@ -30,12 +30,7 @@
     <a href="mailto:kejoelct1002@gmail.com/">
         <img align="left" src="img/gmail.svg" alt="Kevin Cayo | Facebook" width="30px"/>
     </a>
-    <a href="https://www.facebook.com/kevin.cayo.52/">
-        <img align="left" src="img/facebook.svg" alt="Kevin Cayo | Facebook" width="30px"/>
-    </a>
-     <a href="https://www.instagram.com/kevincayo10/">
-        <img align="left" src="img/instagram.svg" alt="Kevin Cayo | Facebook" width="30px"/>
-    </a>
+
 </div>
 <br>
 
